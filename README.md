@@ -1,6 +1,6 @@
 # VaugeTime
 Vague representation of time.
-Yes, I am aware that I misspelled "vague" in the project name. This is something I smashed together over the course of like fourty minutes.
+Yes, I am aware that I misspelled "vague" in the project name. This is something I smashed together over the course of like fourty minutes. I don't care.
 
 WHAT IT IS:
 A simple windows forms app that displays the time using text. To be more accurate, it displays what is nearly the correct time most of the time.
